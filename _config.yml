@@ -7,7 +7,7 @@ plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 
-title:		   "Amanda P.'s Indie Tabletop Creations"
-description: "Creations and musings"
+title:		   "Weird Wonder Games"
+description: "Indie Tabletop Creations by Amanda P."
 author:      "Amanda P."
 remote theme: weirdwonder/weirdwonder.github.io
